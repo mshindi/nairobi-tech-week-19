@@ -1,0 +1,22 @@
+[
+    {
+        "location_id": "1",
+        "country_name": "Kenya",
+        "city": "Nairobi"
+    },
+    {
+        "location_id": "2",
+        "country_name": "Kenya",
+        "city": "Mombasa"
+    },
+    {
+        "location_id": "3",
+        "country_name": "Kenya",
+        "city": "Kisumu"
+    },
+    {
+        "location_id": "4",
+        "country_name": "Wakanda",
+        "city": "Birnin"
+    }
+]
