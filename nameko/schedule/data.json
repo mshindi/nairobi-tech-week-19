@@ -2,7 +2,8 @@
     {
         "schedule_id": "1",
         "location_id": "1",
-        "category": "awesome",
-        "movie": "Endgame"
+        "movie_id": "1",
+        "movie_name": "Avengers - Endgame",
+        "movie_category": "Awesome"
     }
 ]
