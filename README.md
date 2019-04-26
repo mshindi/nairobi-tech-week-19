@@ -32,6 +32,11 @@ Install the python requiremtns
 pip install -r requirements.txt
 ```
 
+Install the node requirements
+```
+cd nameko && cd movie && npm i
+```
+
 Make sure you have rabbitmq installed - https://www.rabbitmq.com/
 
 Then start it
@@ -50,4 +55,9 @@ cd location/ && ./run.sh
 Schedule service
 ```
 cd schedule/ && ./run.sh
+```
+
+Movie service
+```
+cd movie/ && npm run start
 ```
